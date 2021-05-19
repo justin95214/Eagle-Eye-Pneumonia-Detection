@@ -114,7 +114,7 @@ python train.py --gpu=0 --steps=1000 -workers=0 Annotation format의 csv class�
 2. class명의 csv파일은 항상 /home/server/duhyeuk/class/meta/ 경로에 있음
 ```
 
-![instruction.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/instruction.png)
+![line.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/line.png)
 
 3/27일 기준으로~
 
@@ -148,14 +148,14 @@ python keras_retinanet/bin/convert_model.py ../snapshots/resnet50_csv_02.h5 ../s
 
 경로를  /home/server/duhyeuk/ 으로 가시면
 
-![Detection%20699c182658c845928141cb8d12940563/Untitled%203.png](Detection%20699c182658c845928141cb8d12940563/Untitled%203.png)
+![path.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/path.png)
 
 model_path 부분에 생성한 모델을 경로와 같이 입력해주시고, 
 
 만약에 class명의 csv과 동일하게 labels_to_names 부분을 그림과같은 규칙대로 작성
 
 
-![Detection%20699c182658c845928141cb8d12940563/Untitled%204.png](Detection%20699c182658c845928141cb8d12940563/Untitled%204.png)
+![instruction.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/instruction.png)
 
 추론할 이미지도 작은 따옴표안에 경로와 같이 입력해주시고 파일을 저장뒤에 아래와같은 명령어로 실행시켜주시면 됩니다.
 
@@ -163,7 +163,7 @@ model_path 부분에 생성한 모델을 경로와 같이 입력해주시고,
 python retinanet_test.py
 ```
 
-![Detection%20699c182658c845928141cb8d12940563/KakaoTalk_20210327_131130479.png](Detection%20699c182658c845928141cb8d12940563/KakaoTalk_20210327_131130479.png)
+![xray.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/xray.png)
 
 
 [Object Detection 성능평가 Metric ](https://www.notion.so/Object-Detection-Metric-589e4ac95bc446f297d4ddf44fd45663)
