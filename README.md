@@ -101,11 +101,11 @@ https://colab.research.google.com/drive/1FCkzeWjFsjxdh0PZbmBGfveirXL-0739?usp=sh
 
 class명을 적은 csv
 
-![Detection%20699c182658c845928141cb8d12940563/Untitled%201.png](Detection%20699c182658c845928141cb8d12940563/Untitled%201.png)
+![class_anno.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/class_anno.png)
 
 Annotation format의 csv
 
-![Detection%20699c182658c845928141cb8d12940563/Untitled%202.png](Detection%20699c182658c845928141cb8d12940563/Untitled%202.png)
+![img_anno.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/img_anno.png)
 
 ```bash
 python train.py --gpu=0 --steps=1000 -workers=0 Annotation format의 csv class명을 적은 csv
@@ -114,7 +114,7 @@ python train.py --gpu=0 --steps=1000 -workers=0 Annotation format의 csv class�
 2. class명의 csv파일은 항상 /home/server/duhyeuk/class/meta/ 경로에 있음
 ```
 
-![Detection%20699c182658c845928141cb8d12940563/KakaoTalk_20210327_190938071.png](Detection%20699c182658c845928141cb8d12940563/KakaoTalk_20210327_190938071.png)
+![instruction.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/instruction.png)
 
 3/27일 기준으로~
 
