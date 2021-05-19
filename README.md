@@ -97,7 +97,7 @@ https://colab.research.google.com/drive/1FCkzeWjFsjxdh0PZbmBGfveirXL-0739?usp=sh
 
 1. class명을 적힌 csv파일과 Annotation format의 csv파일을 준비한다.
 
-  2. 아래의 teminal창에 아래와 같은 명령어를 작성한다.
+2. 아래의 teminal창에 아래와 같은 명령어를 작성한다.
 
 class명을 적은 csv
 
@@ -154,9 +154,6 @@ model_path 부분에 생성한 모델을 경로와 같이 입력해주시고,
 
 만약에 class명의 csv과 동일하게 labels_to_names 부분을 그림과같은 규칙대로 작성
 
-그리고 밑으로 조금만,,,, 조금만,,,,
-
-분명히 조금만... 내리면 ㅎㅎ
 
 ![Detection%20699c182658c845928141cb8d12940563/Untitled%204.png](Detection%20699c182658c845928141cb8d12940563/Untitled%204.png)
 
@@ -166,15 +163,8 @@ model_path 부분에 생성한 모델을 경로와 같이 입력해주시고,
 python retinanet_test.py
 ```
 
- 참 쉽죠잉?~~~~ㅋㅋ
-
 ![Detection%20699c182658c845928141cb8d12940563/KakaoTalk_20210327_131130479.png](Detection%20699c182658c845928141cb8d12940563/KakaoTalk_20210327_131130479.png)
 
-그림이 팍
-
-나옴!!
-
-pytorch버전도 올리겠습니당
 
 [Object Detection 성능평가 Metric ](https://www.notion.so/Object-Detection-Metric-589e4ac95bc446f297d4ddf44fd45663)
 
