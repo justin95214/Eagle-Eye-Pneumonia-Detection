@@ -1,4 +1,5 @@
 # 프로젝트 진행 방향
+Leader : https://github.com/syncdoth/Eagle-Eye-Pneumonia-Detection
 
 2 Major Tasks:
 
