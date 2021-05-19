@@ -89,7 +89,7 @@ https://colab.research.google.com/drive/1FCkzeWjFsjxdh0PZbmBGfveirXL-0739?usp=sh
 
 1. retinanet-keras 폴더를 찾아서, 
 
-![Detection%20699c182658c845928141cb8d12940563/Untitled.png](Detection%20699c182658c845928141cb8d12940563/Untitled.png)
+![경로.png](https://github.com/justin95214/Eagle-Eye-Pneumonia-Detection/blob/master/resource/%EA%B2%BD%EB%A1%9C.png)
 
 그림과 같이 경로를 들어간다. 경로를 들어가는 방법은 "cd(스페이스바) 폴더명" 으로 하시면됩니다.
 
