@@ -1,6 +1,6 @@
 # 프로젝트 진행 방향
 
-### Team Member
+### Main Team Member
  - 장두혁 https://github.com/justin95214/
  - 최세현 https://github.com/syncdoth/
  - 이성빈 https://github.com/Noah-irooom
