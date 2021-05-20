@@ -1,5 +1,9 @@
 # 프로젝트 진행 방향
-Leader : https://github.com/syncdoth/Eagle-Eye-Pneumonia-Detection
+
+<Team Member>
+ https://github.com/justin95214/
+https://github.com/syncdoth/
+https://github.com/Noah-irooom
 
 2 Major Tasks:
 
