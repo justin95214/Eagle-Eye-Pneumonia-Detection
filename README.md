@@ -1,9 +1,9 @@
 # 프로젝트 진행 방향
 
 ### Main Team Member
+ - 이성빈 https://github.com/Noah-irooom
  - 장두혁 https://github.com/justin95214/
  - 최세현 https://github.com/syncdoth/
- - 이성빈 https://github.com/Noah-irooom
 
 2 Major Tasks:
 
