@@ -9,6 +9,7 @@
 
 1. Pneumonia **Detection**
 2. Pneumonia **Type** Classification
+3. Multi-GPU 코드 개선
 
 ## Pneumonia **Detection**
 
